@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I am Juan Zurita 👋
+
+About me:
+- 🏫 Software Commercial Engineer at Universidad Salesiana de Bolivia 
+- 💻 Junior Software Engineer at Jalasoft
 
 <!--
 **juanzq10dev/juanzq10dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
